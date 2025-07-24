@@ -2,7 +2,8 @@
 • Developed a speech-enabled web app that translates English input into 6 languages (Hindi, Marathi, Tamil, Telugu, Sanskrit, French).  
 • Integrated voice input and multilingual translation using JS and API.  
 
-• 🔗 Live Demo: https://cerebrascoder.com/p/605604
+• 🔗 Live Demo: 
+https://cerebrascoder.com/p/605604
 
 🎤 Speak or type a sentence in English and translate it into 6 languages:  
 **Hindi, Marathi, Tamil, Telugu, Sanskrit, and French**

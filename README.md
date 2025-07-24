@@ -14,7 +14,7 @@ Speak or write sentences it will traslate into 6 language like Marathi,Hindi etc
 - 🎉 Thank-you animation on success
 
 ## 📷 Screenshot
-![App Screenshot](https://your-screenshot-url.com) <!-- Optional -->
+Screenshot_20250724_142846<!-- Optional -->
 
 ---
 

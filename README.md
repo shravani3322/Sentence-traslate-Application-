@@ -1,9 +1,6 @@
 # Sentence-traslate-Application-
 Speak or write sentences it will traslate into 6 language like Marathi,Hindi etc..
-# 🌍 Multilingual Sentence Translator App
-
-🔗 **Live Demo**: [Cerebras App Link](https://cerebrascoder.com/p/605604)
-
+🔗 Live Demo: [Multilingual Translator App](https://cerebrascoder.com/p/605604)
 🎤 Speak or type a sentence in English and translate it into 6 languages:  
 **Hindi, Marathi, Tamil, Telugu, Sanskrit, and French**
 
